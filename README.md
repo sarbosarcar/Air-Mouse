@@ -9,6 +9,9 @@ The project uses the following modules and/or packages. The authors acknowledge 
 + [Mediapipe](https://github.com/google/mediapipe)
 + [Mouse](https://github.com/boppreh/mouse) 
 
+## Concepts Applied
++ Computer Vision
+
 ## Usage Guidelines
 + An outstretched index finger moves the pointer across the screen
 + The middle finger brought adjacent to the index finger resembles a left press on the mouse (note that the press is released only on moving the middle finger away
@@ -17,6 +20,3 @@ The project uses the following modules and/or packages. The authors acknowledge 
 + The video input is frequently jarred and consequently, continuous input feed is not obtained.
 + The clicking mechanism is under development and may invite inadvertent outputs
 
-## Contributors
-+ [Sarbo Sarcar](www.github.com/SarboSarcar)
-+ [Sleepbot-Zapp](www.github.com/sleepbot-zapp)
